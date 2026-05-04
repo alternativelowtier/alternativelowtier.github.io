@@ -1,0 +1,6 @@
+function drawHollowPurple(ctx, x, y, hRadius, age) {
+// ...
+}
+class CombatProjectile {
+// ...
+}
