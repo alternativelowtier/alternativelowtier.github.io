@@ -1,0 +1,6 @@
+class ParticleEffect {
+// ...
+}
+function spawnHitSparks(x, y, color, isBig, isSlash = false, isBlackFlash = false, isYutaSlash = false) {
+// ...
+}
